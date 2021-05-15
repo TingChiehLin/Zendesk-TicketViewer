@@ -60,7 +60,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Step 6 - Running testing
 
-```npm run test```
+```bash
+  npm run test
+# or 
+  yarn run test
+```
 
 ## Technical Use
 
